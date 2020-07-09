@@ -386,7 +386,7 @@ collections:
                 name: "text"
                 widget: "string"
                 required: false
-              - label: "Go back to top"
+              - label: "回到顶部"
                 name: "back_btn"
                 widget: "string"
                 required: false
@@ -394,11 +394,11 @@ collections:
             name: "error_404"
             widget: "object"
             fields:
-              - label: "Title"
+              - label: "标题"
                 name: "title"
                 widget: "string"
                 required: false
-              - label: "Message"
+              - label: "消息"
                 name: "message"
                 widget: "string"
                 required: false
